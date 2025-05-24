@@ -6,4 +6,5 @@ PROFESSION=AWS/DevOps
 echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
 echo "this is new commit"
 echo "this is vs conde comment "
+echo "today is saturday "
 
